@@ -1,5 +1,5 @@
-# Nama Aplikasi
-> Rocky Express
+# Rocky Express
+> Aplikasi untuk pelayanan pengiriman
 
 ## featur
 Sprint 1
