@@ -3,9 +3,10 @@
 
 ## featur
 Sprint 1
-* Pemesanan
-* Pembayaran
-* Estimasi Waktu
+* Login
+* Layanan
+* Tarif Pengiriman
+* Kontak Kami
 
 ## Keterangan Folder
 >D:\xampp\htdocs\vscodeee\PEMROGAMAN WEB
