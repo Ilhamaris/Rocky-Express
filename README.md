@@ -4,6 +4,7 @@
 ## featur
 Sprint 1
 * Login
+* Tentang Kami
 * Layanan
 * Tarif Pengiriman
 * Kontak Kami
